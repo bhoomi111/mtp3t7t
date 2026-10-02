@@ -1,0 +1,16 @@
+The experiments were implemented using Pytorch. To eval-
+uate the proposed method, similar to [19], we adopted the
+leave-one-out cross-validation strategy where one pair of
+3T-7T data is used for testing and the remaining 9 pairs
+for supervised training. All 15 unpaired 3T data was used
+for consistency learning.
+
+
+
+[] Need training code
+[] Need saving code
+[] Need k-fold code
+[] Need pre-training dataset
+
+[] Need inference code.
+[] Need pre-training code

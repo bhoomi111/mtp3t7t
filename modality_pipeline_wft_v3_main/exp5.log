@@ -1,0 +1,6 @@
+['/home/ss_students/mtp/modality_pipeline_wft_v3-main', '/home/ss_students/miniconda3/envs/mht/lib/python311.zip', '/home/ss_students/miniconda3/envs/mht/lib/python3.11', '/home/ss_students/miniconda3/envs/mht/lib/python3.11/lib-dynload', '/home/ss_students/miniconda3/envs/mht/lib/python3.11/site-packages', '/storage/an_inam/MR2MR/patch_pipeline']
+WAND DB BOOLEAN False
+Traceback (most recent call last):
+  File "/home/ss_students/mtp/modality_pipeline_wft_v3-main/master_half_slice_re.py", line 80, in <module>
+    import kornia.augmentation as K
+ModuleNotFoundError: No module named 'kornia'
